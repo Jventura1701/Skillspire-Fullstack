@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.blue {
+    border: 2px solid rgb(18, 77, 239);
+}
+
+.purple {
+    height: 500px;
+    width: 500px;
+    margin: 50px auto;
+    background:rgb(176, 18, 239);
+    color: #fff;
+}
+
+.green {
+    border: 2px solid rgb(9, 124, 30);
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}

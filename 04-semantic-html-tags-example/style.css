@@ -1,0 +1,15 @@
+header {
+    background-color: #c2948a;
+    height: 10vh;
+    width: 100%;
+}
+main {
+    background-color: #f6f0ed;
+    height: 70vh;
+    width: 100%;
+}
+footer {
+    background-color: #7ea8be;
+    height: 20vh;
+    width: 100%;
+}
